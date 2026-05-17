@@ -106,6 +106,10 @@ Evaluated using:
 - Correlation Heatmap  
 - Feature Importance Graph  
 - Actual vs Predicted Values Plot  
+<img width="503" height="308" alt="Screenshot 2026-05-18 205429" src="https://github.com/user-attachments/assets/aa6d6b90-3875-4ba4-b405-5b2e9fa08b70" />
+<img width="503" height="404" alt="Screenshot 2026-05-18 205438" src="https://github.com/user-attachments/assets/48e0b2a7-c394-40b5-849f-e67b3de1cd06" />
+
+
 
 ---
 
